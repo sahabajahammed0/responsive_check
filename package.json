@@ -1,0 +1,19 @@
+{
+  "name": "javascript_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:responsive": "playwright test tests/vdresponsive.spec.js --project=chromium",
+    "test:responsive:strict": "RESPONSIVE_AUDIT_FAIL_ON_ISSUES=true playwright test tests/vdresponsive.spec.js --project=chromium",
+    "report:open": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.5.2"
+  }
+}

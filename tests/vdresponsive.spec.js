@@ -13,6 +13,8 @@ const deviceList = [
   'Pixel 7',
   'Galaxy S5'
 
+  
+
 
 ];
 

@@ -1,8 +1,10 @@
 # Responsive Audit (Centralized)
 
 Use `attachResponsiveAudit(page, testInfo, options)` after your test flow to auto-attach:
-- Full page screenshot
+- Full page raw screenshot
+- Annotated screenshot (red circles + expected result labels) when issues are found
 - JSON issue report
+- Markdown summary report
 - Report annotation when issues are found
 
 ## What It Detects

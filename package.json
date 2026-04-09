@@ -8,7 +8,9 @@
     "test:shop:responsive:strict": "RESPONSIVE_AUDIT_FAIL_ON_ISSUES=true playwright test tests/test-1.spec.js",
     "test:responsive": "playwright test tests/vdresponsive.spec.js --project=chromium",
     "test:responsive:strict": "RESPONSIVE_AUDIT_FAIL_ON_ISSUES=true playwright test tests/vdresponsive.spec.js --project=chromium",
-    "report:open": "playwright show-report"
+    "report:open": "playwright show-report",
+    "test:responsive:all": "playwright test tests/vdresponsive.spec.js --project=chromium",
+    "test:responsive:all:strict": "RESPONSIVE_AUDIT_FAIL_ON_ISSUES=true playwright test tests/vdresponsive.spec.js --project=chromium"
   },
   "keywords": [],
   "author": "",

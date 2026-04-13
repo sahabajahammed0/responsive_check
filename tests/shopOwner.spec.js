@@ -14,7 +14,7 @@ const viewportProfiles = [
   { name: 'desktop-wide', size: { width: 1920, height: 1080 } },
 ];
 
-const shopPrefixes = ['Weavers', 'The Weavers', "Weaver's"];
+const shopPrefixes = ['Al', 'AL restureant', "Abu Jassar Shawarma", "Al Baik Express", "Al Shorfa Seafood"];
 const shopTypes = ['Bar', 'Pub', 'Tavern', 'Lounge', 'Cafe', 'Restaurant'];
 const phonePrefixes = ['789', '987', '654', '321'];
 const descriptions = [

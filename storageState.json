@@ -1,0 +1,47 @@
+{
+  "cookies": [
+    {
+      "name": "wordpress_0098fd226a64507a7dd320bd00a6c673",
+      "value": "wasim1%7C1776431232%7CLn5OmbIKL8PzZww9dfG6mD3A4yr7bGEU1HlNQLicPGU%7C7bc770fb7e6eee02e0f4a8d428a6a6f4710ba2ad6dbb4b0d5d314f88138b0002",
+      "domain": "d2025.weavers-web.com",
+      "path": "/wp-content/plugins",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wordpress_0098fd226a64507a7dd320bd00a6c673",
+      "value": "wasim1%7C1776431232%7CLn5OmbIKL8PzZww9dfG6mD3A4yr7bGEU1HlNQLicPGU%7C7bc770fb7e6eee02e0f4a8d428a6a6f4710ba2ad6dbb4b0d5d314f88138b0002",
+      "domain": "d2025.weavers-web.com",
+      "path": "/wp-admin",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "pqbdDMp4uaicbWTQvBatJv.ki8A_zziGUmGU4Ot1VB8-1776258421-1.2.1.1-suJPX3zt4zHTYZrx0OuhXjw2e6p9tIaErjCS20_QJQd6CrTAEzvCVoqPRAVrQiISzg9nef_c.MfNYjLuDLvcbS5biJWhVEQu_mkgwL4JUqWPTQqxxUhGw7qtnHj9es96Y988c4oGJEuMBPvcAXhBjZV7_tUeAC5wMbVvOEpUwloD2zdYd.tZhnTJWQ.Y0IEF45bbqGSUmUXSgbWeOm3q1v8925uTAf0RYeLeKO6Pfj_U5Fc7AXLHpFx_moabYGcLFr7PUyvzePt8T1xDixYY7R7SJV4Fa9_Xg2L.q3_Fo0ugT1kaRVOxlIjNs9DVyZx24Dt8mkZrq2geQrTZM7urtQ",
+      "domain": ".weavers-web.com",
+      "path": "/",
+      "expires": 1807794421.936672,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://weavers-web.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "wordpress_logged_in_0098fd226a64507a7dd320bd00a6c673",
+      "value": "wasim1%7C1776431232%7CLn5OmbIKL8PzZww9dfG6mD3A4yr7bGEU1HlNQLicPGU%7C02c904554985ff7e09298ec5104f5863ebb44ea1733d12a9874dbe61be4b188d",
+      "domain": "d2025.weavers-web.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

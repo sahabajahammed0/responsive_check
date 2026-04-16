@@ -72,10 +72,23 @@ async function createShop(page, shopData) {
     await page.getByRole('textbox', { name: 'Address*', exact: true })
         .fill(shopData.address || 'Saudi Arabia');
 
-    await page.locator('#category').selectOption('8');
-    await page.locator('#sub_category').selectOption('19');
-    await page.locator('#state').selectOption('Riyadh Region');
-    await page.locator('#city').selectOption('Al Kharj');
+
+
+    await page.locator('#category').selectOption('9');
+    await page.locator('#sub_category').selectOption('16');
+    await page.locator('#state').selectOption('Makkah Region');
+    await page.locator('#city').selectOption('Jeddah');
+    await page.getByRole('textbox', { name: 'Address*', exact: true }).click();
+    await page.getByRole('textbox', { name: 'Address*', exact: true }).fill('makkah');
+    await page.getByRole('textbox', { name: 'Address*', exact: true }).press('ArrowDown');
+    await page.getByRole('textbox', { name: 'Address*', exact: true }).press('Tab');
+
+
+
+    // await page.locator('#category').selectOption('8');
+    // await page.locator('#sub_category').selectOption('19');
+    // await page.locator('#state').selectOption('Riyadh Region');
+    // await page.locator('#city').selectOption('Al Kharj');
 
     await page.getByRole('textbox', { name: 'Add Working Hours*' }).click();
     await page.getByRole('button', { name: 'Save Schedule' }).click();

@@ -1,242 +1,80 @@
 {
     "login": {
-        "username": "wasim1",
+        "username": "wasim2",
         "password": "Web@1234"
     },
     "shops": [
         {
-            "shopName": "Khobar Fusion Bistro",
-            "email": "khobarfusion@yopmail.com",
-            "phone": "505678901",
-            "address": "Saudi Arabia",
-            "specialty": "International fusion Saudi-Asian",
-            "longDesc": "Sushi tacos, shawarma pizza, kunafa cheesecake, rooftop seating, live music, vegan options available.",
-            "product": "Rooftop seating & live music"
-        },
-        {
-            "shopName": "Taif Mountain View Cafe",
-            "email": "taifmountain@yopmail.com",
-            "phone": "506789012",
-            "address": "Saudi Arabia",
-            "specialty": "Rose coffee & mountain scenery",
-            "longDesc": "Rose latte, saffron cappuccino, honey pastries, mountain views, free parking, sunset discounts offered.",
-            "product": "Mountain view & free parking"
-        },
-        {
-            "shopName": "Abha Cloud Kitchen",
-            "email": "abhacloud@yopmail.com",
-            "phone": "507890123",
-            "address": "Saudi Arabia",
-            "specialty": "Delivery-only Asian & Arabic",
-            "longDesc": "Korean chicken, Thai curry, shawarma rolls, eco-friendly packaging, contactless delivery, 20-min prep time.",
-            "product": "Contactless delivery"
-        },
-        {
-            "shopName": "Jubail Garden Restaurant",
-            "email": "jubailgarden@yopmail.com",
-            "phone": "508901234",
-            "address": "Saudi Arabia",
-            "specialty": "Outdoor garden DIY barbecue",
-            "longDesc": "DIY table grills, marinated meats, salad buffet, garden seating, kids playground, live music Fridays.",
-            "product": "DIY barbecue & garden seating"
-        },
-        {
-            "shopName": "Hail Heritage Kitchen",
-            "email": "hailheritage@yopmail.com",
-            "phone": "509012345",
-            "address": "Saudi Arabia",
-            "specialty": "Authentic Najdi cuisine",
-            "longDesc": "Gursan, marqooq, harees, camel meat, traditional floor seating, cooking classes, catering available.",
-            "product": "Traditional seating & cooking classes"
-        },
-        {
-            "shopName": "Yanbu Sunset Cafe",
-            "email": "yanbusunset@yopmail.com",
-            "phone": "510123456",
-            "address": "Saudi Arabia",
-            "specialty": "Beachfront cafe & sunsets",
-            "longDesc": "Iced coffee, smoothies, light pasta, beachfront seating, board games, live DJ, shisha available.",
-            "product": "Beachfront view & board games"
-        },
-        {
-            "shopName": "Buraidah Dates Palace",
-            "email": "buraidahdates@yopmail.com",
-            "phone": "511234567",
-            "address": "Saudi Arabia",
-            "specialty": "Date desserts & shakes",
-            "longDesc": "Date cheesecake, date milkshake, 20 date varieties, gift boxes, tasting sessions, Arabic coffee free.",
-            "product": "Date tasting & gift boxes"
-        },
-        {
-            "shopName": "Tabuk Valley Grill",
-            "email": "tabukvalley@yopmail.com",
-            "phone": "512345678",
-            "address": "Saudi Arabia",
-            "specialty": "Wood-fired grills",
-            "longDesc": "Whole roasted lamb, wood-fired kebabs, live music, rustic valley setting, private dining, free parking.",
-            "product": "Wood-fired grill & live music"
-        },
-        {
-            "shopName": "Najran Spice Route",
-            "email": "najranspice@yopmail.com",
-            "phone": "513456789",
-            "address": "Saudi Arabia",
-            "specialty": "Spicy Yemeni & Ethiopian",
-            "longDesc": "Saltah, fahsa, injera, stone bowl cooking, vegetarian options, spice levels mild to fire available.",
-            "product": "Stone bowl cooking & authentic spices"
-        },
-        {
-            "shopName": "Jizan Tropical Kitchen",
-            "email": "jizantropical@yopmail.com",
-            "phone": "514567890",
-            "address": "Saudi Arabia",
-            "specialty": "Tropical seafood & mango",
-            "longDesc": "Mango fish curry, coconut shrimp, fresh juices, playground, open-air seating, family meal deals.",
-            "product": "Tropical fruits & playground"
-        },
-        {
-            "shopName": "Sakaka Oasis Cafe",
-            "email": "sakakaoasis@yopmail.com",
-            "phone": "515678901",
-            "address": "Saudi Arabia",
-            "specialty": "Organic teas & poetry",
-            "longDesc": "Organic chamomile, mint tea, homemade cookies, poetry corner, free Wi-Fi, open mic nights regularly.",
-            "product": "Poetry corner & organic tea"
-        },
-        {
-            "shopName": "Arar Desert Tent",
-            "email": "arardesert@yopmail.com",
-            "phone": "516789012",
-            "address": "Saudi Arabia",
-            "specialty": "Bedouin zarb underground BBQ",
-            "longDesc": "Underground lamb BBQ, camel rides, traditional tent, drumming, advance booking required, seasonal open.",
-            "product": "Underground BBQ & camel rides"
-        },
-        {
-            "shopName": "Khamis Mushait Highlands",
-            "email": "khamishigh@yopmail.com",
-            "phone": "517890123",
-            "address": "Saudi Arabia",
-            "specialty": "Highland comfort food",
-            "longDesc": "Lentil soup, baked macaroni, indoor fireplace, kids eat free, warm atmosphere, breakfast served daily.",
-            "product": "Fireplace & kids eat free"
-        },
-        {
-            "shopName": "Qatif Pearl Kitchen",
-            "email": "qatifpearl@yopmail.com",
-            "phone": "518901234",
-            "address": "Saudi Arabia",
-            "specialty": "Eastern Province heritage",
-            "longDesc": "Qoozi lamb, biryani, private family rooms, catering, cooking classes, traditional Arabian interior decor.",
-            "product": "Family private rooms & catering"
-        },
-        {
-            "shopName": "Ras Tanura Waves",
-            "email": "rastanurawaves@yopmail.com",
-            "phone": "519012345",
-            "address": "Saudi Arabia",
-            "specialty": "Beach shack fried fish",
-            "longDesc": "Fried fish sandwiches, shrimp po'boy, beach seating, cash only, no delivery, fresh daily catch.",
-            "product": "Beach access & cash only"
-        },
-        {
-            "shopName": "AlUla Ancient Kitchen",
-            "email": "alulaancient@yopmail.com",
-            "phone": "520123456",
-            "address": "Saudi Arabia",
-            "specialty": "Nabatean-inspired ancient dishes",
-            "longDesc": "Barley porridge, lamb stew, ancient recipes, audio guide, replica house, reservations essential, dinner only.",
-            "product": "Historical dining & audio guide"
-        },
-        {
-            "shopName": "Hofuf Date Cafe",
-            "email": "hofufdate@yopmail.com",
-            "phone": "521234567",
-            "address": "Saudi Arabia",
-            "specialty": "All-day date breakfast",
-            "longDesc": "Date pancakes, date latte, date syrup bottles, breakfast only 6AM-3PM, near Al-Ahsa Oasis location.",
-            "product": "Breakfast only & date products"
-        },
-        {
-            "shopName": "Sharurah Spice Kitchen",
-            "email": "sharurahspice@yopmail.com",
+            "shopName": "Cardio Zone Makka",
+            "email": "cardiozone@yopmail.com",
             "phone": "522345678",
-            "address": "Saudi Arabia",
-            "specialty": "Extremely spicy dishes",
-            "longDesc": "Ghost pepper curry, Carolina Reaper wings, spice waiver, free chili sauce, raita to cool down.",
-            "product": "Spice challenge & free chili sauce"
+            "address": "Makka",
+            "specialty": "Treadmills & cycling studio",
+            "longDesc": "50 treadmills with TVs. Spin bikes with virtual rides. Heart rate monitoring included.",
+            "product": "Cardio equipment & virtual rides"
         },
         {
-            "shopName": "Duba Coast Cafe",
-            "email": "dubacoast@yopmail.com",
+            "shopName": "Makka MMA Academy",
+            "email": "makkaMMA@yopmail.com",
             "phone": "523456789",
-            "address": "Saudi Arabia",
-            "specialty": "Vegan cafe cold brew",
-            "longDesc": "Cold brew, matcha, vegan pastries, reusable cup discount, quiet workspace, sugar-free options available.",
-            "product": "Vegan options & reusable cup discount"
+            "address": "Makka",
+            "specialty": "Mixed martial arts training",
+            "longDesc": "BJJ, Muay Thai, wrestling, boxing. UFC style octagon. Competition team. Kids self-defense.",
+            "product": "MMA classes & octagon ring"
         },
         {
-            "shopName": "Al Bahah Forest Kitchen",
-            "email": "albahahforest@yopmail.com",
+            "shopName": "Old City Calisthenics",
+            "email": "oldcitycali@yopmail.com",
             "phone": "524567890",
-            "address": "Saudi Arabia",
-            "specialty": "Forest mushrooms truffles",
-            "longDesc": "Mushroom risotto, truffle pasta, seasonal foraged menu, forest views, reservations recommended, cozy atmosphere.",
-            "product": "Seasonal foraged menu & forest view"
+            "address": "Makka",
+            "specialty": "Street workout & calisthenics",
+            "longDesc": "Outdoor park setup. Pull-up bars, parallel bars. Free community workouts every Friday.",
+            "product": "Outdoor calisthenics & free Friday workouts"
         },
         {
-            "shopName": "Rafha Border Grill",
-            "email": "rafhaborder@yopmail.com",
+            "shopName": "Pilates & Core Makka",
+            "email": "pilatescore@yopmail.com",
             "phone": "525678901",
-            "address": "Saudi Arabia",
-            "specialty": "24/7 traveler grill",
-            "longDesc": "24/7 service, lentil soup, shawarma, truck parking, clean restrooms, coffee always available, takeaway.",
-            "product": "24/7 service & truck parking"
+            "address": "Makka",
+            "specialty": "Reformer pilates studio",
+            "longDesc": "Small classes of 6. Certified instructors. Prenatal pilates available. Mats and props provided.",
+            "product": "Reformer pilates & prenatal classes"
         },
         {
-            "shopName": "Turaif Stone Village",
-            "email": "turaifstone@yopmail.com",
+            "shopName": "Boxing Fit Makka",
+            "email": "boxingfit@yopmail.com",
             "phone": "526789012",
-            "address": "Saudi Arabia",
-            "specialty": "Wood fire stone oven",
-            "longDesc": "Wood fire cooking, stone oven bread, slow-cooked lamb stew, cash only, limited seats, authentic.",
-            "product": "Wood fire cooking & cash only"
+            "address": "Makka",
+            "specialty": "Boxing & kickboxing gym",
+            "longDesc": "Heavy bags, speed bags, sparring ring. No experience needed. Free gloves for new members.",
+            "product": "Boxing classes & free gloves"
         },
         {
-            "shopName": "Sabya Fish Market",
-            "email": "sabyafish@yopmail.com",
+            "shopName": "Senior Wellness Makka",
+            "email": "seniorwellness@yopmail.com",
             "phone": "527890123",
-            "address": "Saudi Arabia",
-            "specialty": "Pick grill own fish",
-            "longDesc": "Pick your own fish, grilled on spot, BYOB, no frills, fresh daily, cash only, popular with locals.",
-            "product": "Pick & grill & BYOB"
+            "address": "Makka",
+            "specialty": "Gym for elderly 50+",
+            "longDesc": "Low impact machines. Chair yoga. Blood pressure monitoring. Social lounge with tea.",
+            "product": "Senior fitness & health monitoring"
         },
         {
-            "shopName": "Al Wajh Marina Cafe",
-            "email": "alwajhmarina@yopmail.com",
+            "shopName": "Personal Trainer On Demand",
+            "email": "trainerondemand@yopmail.com",
             "phone": "528901234",
-            "address": "Saudi Arabia",
-            "specialty": "Marina yachts view",
-            "longDesc": "Marina views, bruschetta, cheese platters, pet-friendly, live acoustic guitar, boat owners favorite spot.",
-            "product": "Marina view & pet-friendly"
+            "address": "Makka",
+            "specialty": "Mobile personal training",
+            "longDesc": "Trainers come to your home or hotel. No gym needed. First session free. Flexible hours.",
+            "product": "Home personal training & first free"
         },
         {
-            "shopName": "Dawadmi Traditional Kitchen",
-            "email": "dawadmikitchen@yopmail.com",
+            "shopName": "Kids Sports Academy",
+            "email": "kidssports@yopmail.com",
             "phone": "529012345",
-            "address": "Saudi Arabia",
-            "specialty": "Home-style grandmother cooking",
-            "longDesc": "Maqluba, musaqa'a, no preservatives, changing daily menu, large portions, closed Fridays, homemade taste.",
-            "product": "Home-style cooking & no preservatives"
-        },
-        {
-            "shopName": "Dhahran Tech Hub Cafe",
-            "email": "dhahrantech@yopmail.com",
-            "phone": "530123456",
-            "address": "Saudi Arabia",
-            "specialty": "Protein shakes salads",
-            "longDesc": "Protein smoothies, keto snacks, gluten-free muffins, conference room, loyalty card, business park location.",
-            "product": "Keto & gluten-free options & conference room"
+            "address": "Makka",
+            "specialty": "Fitness for children 4-14",
+            "longDesc": "Fun obstacle courses. Soccer, basketball, swimming. Birthday party packages available.",
+            "product": "Kids fitness & birthday parties"
         }
     ]
 }
